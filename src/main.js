@@ -1,3 +1,4 @@
+
 //create game configuration object
 let config = {
     type: Phaser.CANVAS,
